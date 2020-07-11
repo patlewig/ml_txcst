@@ -1,0 +1,15 @@
+name: ml_txcst
+
+channels:
+      -conda-forge
+
+dependencies:
+	- ipython
+	- python3
+	- scikit-learn
+	- rdkit
+	- matplotlib
+	- numpy
+	- pandas
+	- seaborn
+	- pip
